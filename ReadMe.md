@@ -98,10 +98,11 @@ int main(int argc, CHAR** argv){
 ## **Notes**
 + Compiler > MINGW, cmakefile
 + c++17
++ ONLY Windows
 
 <br></br>
 # **Pictures**
 
-![](https://github.com/Mawi1e/IOCP-Echo/blob/main/Pictures/1_1.PNG)
-![](https://github.com/Mawi1e/IOCP-Echo/blob/main/Pictures/1_2.PNG)
-![](https://github.com/Mawi1e/IOCP-Echo/blob/main/Pictures/1_3.PNG)
+![](https://github.com/Mawi1e/Callback-Echo-Server/blob/main/Pictures/1_1.PNG)
+![](https://github.com/Mawi1e/Callback-Echo-Server/blob/main/Pictures/1_2.PNG)
+![](https://github.com/Mawi1e/Callback-Echo-Server/blob/main/Pictures/1_3.PNG)
